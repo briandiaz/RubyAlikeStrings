@@ -1,0 +1,6 @@
+C:\Users\Brian Diaz\Desktop\Brian Diaz Me\Visual Studio Projects\RubyALikeStrings\RubyALikeStrings\bin\Debug\RubyALikeStrings.exe.config
+C:\Users\Brian Diaz\Desktop\Brian Diaz Me\Visual Studio Projects\RubyALikeStrings\RubyALikeStrings\bin\Debug\RubyALikeStrings.exe
+C:\Users\Brian Diaz\Desktop\Brian Diaz Me\Visual Studio Projects\RubyALikeStrings\RubyALikeStrings\bin\Debug\RubyALikeStrings.pdb
+C:\Users\Brian Diaz\Desktop\Brian Diaz Me\Visual Studio Projects\RubyALikeStrings\RubyALikeStrings\obj\Debug\RubyALikeStrings.csprojResolveAssemblyReference.cache
+C:\Users\Brian Diaz\Desktop\Brian Diaz Me\Visual Studio Projects\RubyALikeStrings\RubyALikeStrings\obj\Debug\RubyALikeStrings.exe
+C:\Users\Brian Diaz\Desktop\Brian Diaz Me\Visual Studio Projects\RubyALikeStrings\RubyALikeStrings\obj\Debug\RubyALikeStrings.pdb
